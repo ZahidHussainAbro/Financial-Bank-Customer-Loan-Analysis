@@ -12,11 +12,11 @@ Financial Analysis Customer Bank Loan Project (Thera Bank) using Python.
 𝗢𝗯𝗷𝗲𝗰𝘁𝗶𝘃𝗲: In this project, Thera Bank use case located in India, compared to the last customer behavior and percentage of loan holders and on which next customers be eligible for loans by their education and income level and age. So, marketing campaigns can target specific customer groups who can be targeted for loans to avoid risk and best performance by less budget expenditure on marketing campaigns.
 
 𝗣𝗿𝗼𝗰𝗲𝘀𝘀 𝗶𝗻 𝘁𝗵𝗶𝘀 𝗽𝗿𝗼𝗷𝗲𝗰𝘁:
--Process in this project:
-Data collection
-Data Understanding
-Data Preprocessing
-Exploratory Data Analysis
-Data Visualization
-Statistical Analysis 
-Data Normalization
+--Process in this project:
+--Data collection
+--Data Understanding
+--Data Preprocessing
+--Exploratory Data Analysis
+--Data Visualization
+--Statistical Analysis 
+--Data Normalization
